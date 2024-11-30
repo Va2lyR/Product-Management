@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to manage and send product codes/messages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "@va2lyr",
+  "license": "ISC"
+}
